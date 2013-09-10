@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0.13-slc1'
+version = '1.0.13-slc2.dev0'
 
 setup(name='mfabrik.webandmobile',
       version=version,
